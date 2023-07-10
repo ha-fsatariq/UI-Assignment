@@ -275,7 +275,7 @@ padding: 60px 20px 0 40px;
 @media (max-width: 768px){
     .header{
      background-image:none;
-     height: 65vh;
+     height: 410px;
      
     }
      .navbar{
