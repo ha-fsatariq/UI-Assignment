@@ -324,9 +324,10 @@ padding: 60px 20px 0 40px;
  }
  
 
- @media (min-width:992px) and (max-width:1094px){
-.offerings .body{
+  @media (min-width:992px) and (max-width:1094px){
+.body{
     margin-left: 10px;
     margin-right:10px ;
 }
+
  }
